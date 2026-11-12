@@ -1,0 +1,71 @@
+{
+ "label": "Delhivery",
+ "reviews_total": 7000,
+ "date_from": "2026-09-17",
+ "date_to": "2026-11-12",
+ "negative_1_2_star": 2887,
+ "negative_unique_texts": 2766,
+ "share_negative": 0.412,
+ "short_positive_share_le5_words": 0.739,
+ "themes": {
+  "false_unavailable": {
+   "n": 421,
+   "pct": 15.2
+  },
+  "agent_unreachable": {
+   "n": 250,
+   "pct": 9.0
+  },
+  "delay_stuck": {
+   "n": 978,
+   "pct": 35.4
+  },
+  "no_human_support": {
+   "n": 335,
+   "pct": 12.1
+  },
+  "rude_or_collect_yourself": {
+   "n": 93,
+   "pct": 3.4
+  },
+  "pickup_return_failed": {
+   "n": 33,
+   "pct": 1.2
+  },
+  "damaged_wrong_lost": {
+   "n": 112,
+   "pct": 4.0
+  },
+  "money_extra_refund": {
+   "n": 77,
+   "pct": 2.8
+  },
+  "app_tracking_bug": {
+   "n": 49,
+   "pct": 1.8
+  }
+ },
+ "untagged_pct": 43.1,
+ "median_days_mentioned": 5.0,
+ "reviews_with_days": 502,
+ "false_unavailable_and_unreachable": 64,
+ "neg_replied_pct": 90.6,
+ "neg_with_positive_toned_reply": 12,
+ "top_reply_templates": {
+  "Hi, we acknowledge the issue you've reported and would like to assist ": 230,
+  "Hi, we appreciate you sharing your concern with us. We're committed to": 199,
+  "Hi there! Thank you for taking the time to share your feedback. We're ": 4
+ },
+ "top2_template_share_pct": 17.1,
+ "weekly_false_unavailable": {
+  "2026-09-20": "25/132",
+  "2026-09-27": "53/341",
+  "2026-10-04": "53/322",
+  "2026-10-11": "46/271",
+  "2026-10-18": "39/344",
+  "2026-10-25": "69/430",
+  "2026-11-01": "63/416",
+  "2026-11-08": "50/355",
+  "2026-11-15": "23/155"
+ }
+}

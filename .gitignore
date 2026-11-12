@@ -1,0 +1,4 @@
+data/*.csv
+__pycache__/
+DM_Drafts_*.md
+*.html
