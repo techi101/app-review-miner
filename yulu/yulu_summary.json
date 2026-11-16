@@ -1,0 +1,30 @@
+{
+ "fetched": 5000,
+ "window": "2026-05-16 to 2026-11-15",
+ "reviews_in_window": 588,
+ "low_share_in_window": 0.531,
+ "low_reviews": 312,
+ "theme_share_of_low": {
+  "refund_deposit_wallet": 0.135,
+  "support_no_human": 0.179,
+  "unlock_qr_app_bug": 0.09,
+  "battery_range": 0.154,
+  "vehicle_fault": 0.058,
+  "plan_pricing": 0.221,
+  "kyc_verification": 0.003
+ },
+ "theme_counts_low": {
+  "refund_deposit_wallet": 42,
+  "support_no_human": 56,
+  "unlock_qr_app_bug": 28,
+  "battery_range": 48,
+  "vehicle_fault": 18,
+  "plan_pricing": 69,
+  "kyc_verification": 1
+ },
+ "yulu_replied_share_low": 0.343,
+ "rider_mention_low": 22,
+ "battery_share_riders": 0.364,
+ "battery_share_others": 0.138,
+ "battery_tag_handcheck": "16 of 20 correct"
+}
