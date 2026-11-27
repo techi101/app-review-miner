@@ -1,6 +1,6 @@
 # LXME case study (small)
 
-All 5,000 Google Play reviews returned for LXME (`com.lxme`), 4 Sep 2023 to 26 Nov 2026, loaded into SQLite and tagged with plain SQL (`themes.sql`). LXME has few reviews (7,236 ratings in total), so 1, 2 and 3 star reviews (382) count as unhappy here.
+The 5,000 newest Google Play reviews of LXME (4,986 after removing repeated identical texts) (`com.lxme`), 4 Sep 2023 to 26 Nov 2026, loaded into SQLite and tagged with plain SQL (`themes.sql`). LXME has few reviews (7,236 ratings in total), so 1, 2 and 3 star reviews (382) count as unhappy here.
 
 ## What it shows
 
